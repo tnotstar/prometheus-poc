@@ -1,0 +1,13 @@
+{
+  "name": "prometheus-poc",
+  "type": "module",
+  "author": "Manuel de la Higuera",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "prom-client": "^14.2.0",
+    "response-time": "^2.3.2"
+  }
+}
